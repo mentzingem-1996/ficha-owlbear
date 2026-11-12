@@ -1,0 +1,16 @@
+{
+  "name": "Ficha 5.5",
+  "version": "0.1.0",
+  "manifest_version": 1,
+  "author": "Mesa do Bruxo",
+  "description": "Ficha de personagem de D&D 2024 (5.5) com espaços de magia, Sorte, Inspiração Heroica e as cartas do grupo.",
+  "icon": "icon.svg",
+  "background_url": "background.html",
+  "action": {
+    "title": "Ficha 5.5",
+    "icon": "icon.svg",
+    "popover": "index.html",
+    "width": 1040,
+    "height": 760
+  }
+}
